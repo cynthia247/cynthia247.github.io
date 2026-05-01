@@ -1,3 +1,9 @@
 <div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+  <ol class="bibliography">
+    {% for entry in site.bibliography | sort: "date" | reverse | slice: 0, 2 %}
+      <li>
+        {% include bib.liquid entry=entry %}
+      </li>
+    {% endfor %}
+  </ol>
 </div>

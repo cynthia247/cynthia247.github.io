@@ -42,6 +42,18 @@
           %}
         {% endif %}
       {% endif %}
+      <div class="pub-buttons">
+        <a class="pub-btn pub-btn-primary" href="#{{ entry.key }}" title="Jump to publication"><i class="fa fa-book"></i></a>
+        {% if entry.doi %}
+          <a class="pub-btn pub-btn-secondary" href="https://doi.org/{{ entry.doi }}" title="DOI" target="_blank"><i class="fa fa-link"></i></a>
+        {% endif %}
+        {% if entry.pdf %}
+          <a class="pub-btn pub-btn-secondary" href="{% if entry.pdf contains '://' %}{{ entry.pdf }}{% else %}{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}{% endif %}" title="PDF" target="_blank"><i class="fa fa-file-pdf-o"></i></a>
+        {% endif %}
+        {% if entry.code %}
+          <a class="pub-btn pub-btn-secondary" href="{{ entry.code }}" title="Code" target="_blank"><i class="fa fa-github"></i></a>
+        {% endif %}
+      </div>
     </div>
   {% endif %}
 
