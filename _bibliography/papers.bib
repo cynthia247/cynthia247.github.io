@@ -2,20 +2,18 @@
 @article{cynthia2026beyond,
   title={Beyond Bug Fixes: An Empirical Investigation of Post-Merge Code Quality Issues in Agent-Generated Pull Requests},
   author={Cynthia, Shamse Tasnim and Muttakin, Al and Roy, Banani},
-  journal={arXiv preprint arXiv:2601.20109},
+  journal={23rd International Conference on Mining Software Repositories (MSR)},
   year={2026},
-  abbr={arXiv},
-  arxiv={2601.20109},
+  abbr={MSR},
   bibtex_show={true},
   abstract={The increasing adoption of AI coding agents has led to a growing number of agent-generated pull requests (PRs) being merged with little or no human intervention. While such agentic PRs promise productivity gains, their impact on code quality remains underexplored. While prior work has evaluated coding agents using benchmarks and controlled tasks, large-scale evidence on post-merge quality issues in agentic PRs remains limited. In this study, we analyze 1,210 merged agent-generated bug-fix PRs from Python repositories in the AIDev dataset. Using SonarQube, we perform a differential analysis between base and merged commits to identify code quality issues newly introduced by PR changes. We examine issue frequency, density, severity, and rule-level prevalence across five agents. Our results show that apparent differences in raw issue counts across agents largely disappear after normalizing by code churn, indicating that higher issue counts are primarily driven by larger PRs. Across all agents, code smells dominate, particularly at critical and major severities, while bugs are less frequent but often severe. Security hotspots occur unevenly across agents, most notably for OpenAI Codex. Overall, our findings show that merge success does not reliably reflect post-merge code quality, highlighting the need for systematic, size-aware quality checks for agent-generated bug-fix PRs.}
 }
 @article{cynthia2026we,
   title={Are We All Using Agents the Same Way? An Empirical Study of Core and Peripheral Developers Use of Coding Agents},
   author={Cynthia, Shamse Tasnim and Das, Joy Krishan and Roy, Banani},
-  journal={arXiv preprint arXiv:2601.20106},
+  journal={23rd International Conference on Mining Software Repositories (MSR)},
   year={2026},
-  abbr={arXiv},
-  arxiv={2601.20106},
+  abbr={MSR},
   bibtex_show={true},
   abstract={Autonomous AI agents are transforming software development and redefining how developers collaborate with AI. Prior research shows that the adoption and use of AI-powered tools differ between core and peripheral developers. However, it remains unclear how this dynamic unfolds in the emerging era of autonomous coding agents. In this paper, we present the first empirical study of 9,427 agentic PRs, examining how core and peripheral developers use, review, modify, and verify agent-generated contributions prior to acceptance. Through a mix of qualitative and quantitative analysis, we make four key contributions. First, a subset of peripheral developers use agents more often, delegating tasks evenly across bug fixing, feature addition, documentation, and testing. In contrast, core developers focus more on documentation and testing, yet their agentic PRs are frequently merged into the main/master branch. Second, core developers engage slightly more in review discussions than peripheral developers, and both groups focus on evolvability issues. Third, agentic PRs are less likely to be modified, but when they are, both groups commonly perform refactoring. Finally,  peripheral developers are more likely to merge without running CI checks, whereas core developers more consistently require passing verification before acceptance.  Our analysis offers a comprehensive view of how developer experience shapes integration offer insights for both peripheral and core developers on how to effectively collaborate with coding agents.}
 }

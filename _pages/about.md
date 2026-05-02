@@ -8,10 +8,8 @@ profile:
   align: justify
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Room# Thorv254, Thorvaldson Building</p>
-    <p>110 Science Pl</p>
-    <p>Saskatoon, SK, S7N 5C9</p>
+  more_info: >    # <p>110 Science Pl</p> # <p>Saskatoon, SK, S7N 5C9</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Shamse. I am currently a Ph.D. Student in the Department of Computer Science at the <a href='#'>University of Saskatchewan</a>, working under the supervision of <a href='#'>Dr. Banani Roy</a>, in the <a href='#'>Interactive Software Engineering and Analytics Lab</a>. 
+Hi, I am Shamse. I am currently a Ph.D. Student in the Department of Computer Science at the <a href='https://www.usask.ca/'>University of Saskatchewan</a>, working under the supervision of <a href='https://www.cs.usask.ca/people/faculty%20profiles/banani-roy.php'>Dr. Banani Roy</a>, in the <a href='https://ise.usask.ca/'>Interactive Software Engineering and Analytics Lab</a>. 
 
 <p>My research sits at the intersection of software engineering and human-AI collaboration. As autonomous agents evolve from simple tools into active teammates, my research investigates how this shift impacts developer workflows and community dynamics. Currently, my work focuses on role-calibrated human-agent teaming. I empirically study how interactions with AI agents differ across the social hierarchy of software projects. By analyzing the behaviors of both core and peripheral developers, I aim to design more adaptive, role-aware AI systems that foster trust, reduce friction, and improve code quality in open-source and enterprise environments.</p> 
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at MSR-Mining Challenge Track!
+Paper accepted at <b>MSR-Mining Challenge Track</b>!

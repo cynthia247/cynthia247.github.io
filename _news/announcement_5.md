@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-1st Runner-Up at the CSGC Research Fest 2025 in the #WomenInSTEM category!
+<b>1st Runner-Up</b> at the CSGC Research Fest 2025 in the #WomenInSTEM category!

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at MSR 2026!! :sparkles: :smile:
+Paper accepted at <b>MSR</b> 2026!! :sparkles: :smile:

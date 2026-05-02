@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted for presentation at JAWs!!
+Paper accepted for presentation at <b>JAWs</b>!!

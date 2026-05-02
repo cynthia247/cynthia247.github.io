@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Won Best Poster Award at SOAR Symposium 2025!
+Won <b>Best Poster Award</b> at SOAR Symposium 2025!
