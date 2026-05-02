@@ -236,3 +236,12 @@
   background: var(--global-bg-color);
   color: var(--global-theme-color);
 }
+
+// Limit selected papers to 3 items
+.publications.selected-papers-limit {
+  ol.bibliography {
+    li:nth-child(n + 4) {
+      display: none;
+    }
+  }
+}
