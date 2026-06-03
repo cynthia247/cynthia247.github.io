@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-06-03'
 papers:
   o9XX9vUAAAAJ:2osOgNQ5qMEC:
     citations: 37
     title: Data mining approach to analyzing intrusion detection of wireless sensor network
     year: '2021'
   o9XX9vUAAAAJ:5nxA0vEk-isC:
-    citations: 0
+    citations: 1
     title: Towards LLM-Powered Task-Aware Retrieval of Scientific Workflows for Galaxy
     year: '2025'
   o9XX9vUAAAAJ:9yKSN-GCB0IC:
@@ -14,7 +14,7 @@ papers:
     title: Automated detection of plant diseases using image processing and faster R-CNN algorithm
     year: '2019'
   o9XX9vUAAAAJ:LkGwnXOMwfcC:
-    citations: 0
+    citations: 1
     title: Identification and Optimization of Redundant Code Using Large Language Models
     year: '2025'
   o9XX9vUAAAAJ:Se3iqnhoufwC:
@@ -34,7 +34,7 @@ papers:
     title: GEICSE 2025
     year: Unknown Year
   o9XX9vUAAAAJ:W7OEmFMy1HYC:
-    citations: 6
+    citations: 7
     title: Feature transformation for improved software bug detection and commit classification
     year: '2025'
   o9XX9vUAAAAJ:WF5omc3nYNoC:
@@ -42,11 +42,11 @@ papers:
     title: Sclerosis Disease Using Nature Inspired PSO and ACO Based Optimized Neural
     year: '2019'
   o9XX9vUAAAAJ:YOwf2qJgpHMC:
-    citations: 2
+    citations: 3
     title: Are We All Using Agents the Same Way? An Empirical Study of Core and Peripheral Developers Use of Coding Agents
     year: '2026'
   o9XX9vUAAAAJ:_FxGoFyzp5QC:
-    citations: 4
+    citations: 5
     title: An empirical study on the impact of gender diversity on code quality in AI systems
     year: '2025'
   o9XX9vUAAAAJ:_kc_bZDykSQC:
