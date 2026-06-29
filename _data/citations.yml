@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-06-29'
 papers:
   o9XX9vUAAAAJ:2osOgNQ5qMEC:
     citations: 37
@@ -34,7 +34,7 @@ papers:
     title: GEICSE 2025
     year: Unknown Year
   o9XX9vUAAAAJ:W7OEmFMy1HYC:
-    citations: 7
+    citations: 8
     title: Feature transformation for improved software bug detection and commit classification
     year: '2025'
   o9XX9vUAAAAJ:WF5omc3nYNoC:
@@ -46,11 +46,11 @@ papers:
     title: Are We All Using Agents the Same Way? An Empirical Study of Core and Peripheral Developers Use of Coding Agents
     year: '2026'
   o9XX9vUAAAAJ:_FxGoFyzp5QC:
-    citations: 5
+    citations: 6
     title: An empirical study on the impact of gender diversity on code quality in AI systems
     year: '2025'
   o9XX9vUAAAAJ:_kc_bZDykSQC:
-    citations: 0
+    citations: 1
     title: 'Beyond Bug Fixes: An Empirical Investigation of Post-Merge Code Quality Issues in Agent-Generated Pull Requests'
     year: '2026'
   o9XX9vUAAAAJ:d1gkVwhDpl0C:
