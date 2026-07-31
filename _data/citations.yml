@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-31'
 papers:
+  o9XX9vUAAAAJ:1qzjygNMrQYC:
+    citations: 0
+    title: 'From Generic to Personalized: Exploring Persona-Aware Code Review Explanations'
+    year: '2026'
   o9XX9vUAAAAJ:2osOgNQ5qMEC:
     citations: 37
     title: Data mining approach to analyzing intrusion detection of wireless sensor network
@@ -10,7 +14,7 @@ papers:
     title: Towards LLM-Powered Task-Aware Retrieval of Scientific Workflows for Galaxy
     year: '2025'
   o9XX9vUAAAAJ:9yKSN-GCB0IC:
-    citations: 56
+    citations: 57
     title: Automated detection of plant diseases using image processing and faster R-CNN algorithm
     year: '2019'
   o9XX9vUAAAAJ:LkGwnXOMwfcC:
@@ -26,7 +30,7 @@ papers:
     title: Effect of Feature Selection in Software Fault Detection
     year: '2019'
   o9XX9vUAAAAJ:UeHWp8X0CEIC:
-    citations: 5
+    citations: 6
     title: 'Predicting and classifying software faults: A data mining approach'
     year: '2019'
   o9XX9vUAAAAJ:UebtZRa9Y70C:
@@ -46,11 +50,11 @@ papers:
     title: Are We All Using Agents the Same Way? An Empirical Study of Core and Peripheral Developers Use of Coding Agents
     year: '2026'
   o9XX9vUAAAAJ:_FxGoFyzp5QC:
-    citations: 6
+    citations: 8
     title: An empirical study on the impact of gender diversity on code quality in AI systems
     year: '2025'
   o9XX9vUAAAAJ:_kc_bZDykSQC:
-    citations: 1
+    citations: 4
     title: 'Beyond Bug Fixes: An Empirical Investigation of Post-Merge Code Quality Issues in Agent-Generated Pull Requests'
     year: '2026'
   o9XX9vUAAAAJ:d1gkVwhDpl0C:
