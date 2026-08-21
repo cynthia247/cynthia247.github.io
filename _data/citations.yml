@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-21'
 papers:
   o9XX9vUAAAAJ:1qzjygNMrQYC:
     citations: 0
     title: 'From Generic to Personalized: Exploring Persona-Aware Code Review Explanations'
     year: '2026'
   o9XX9vUAAAAJ:2osOgNQ5qMEC:
-    citations: 35
+    citations: 36
     title: Data mining approach to analyzing intrusion detection of wireless sensor network
     year: '2021'
   o9XX9vUAAAAJ:5nxA0vEk-isC:
@@ -14,7 +14,7 @@ papers:
     title: Towards LLM-powered task-aware retrieval of scientific workflows for Galaxy
     year: '2025'
   o9XX9vUAAAAJ:9yKSN-GCB0IC:
-    citations: 56
+    citations: 58
     title: Automated detection of plant diseases using image processing and faster R-CNN algorithm
     year: '2019'
   o9XX9vUAAAAJ:LkGwnXOMwfcC:
@@ -38,7 +38,7 @@ papers:
     title: GEICSE 2025
     year: Unknown Year
   o9XX9vUAAAAJ:W7OEmFMy1HYC:
-    citations: 8
+    citations: 9
     title: Feature transformation for improved software bug detection and commit classification
     year: '2025'
   o9XX9vUAAAAJ:WF5omc3nYNoC:
@@ -50,8 +50,8 @@ papers:
     title: '" Go Home Copilot, You''re Drunk": Understanding Developer Responses to Agent-Generated Code Review Comments'
     year: '2026'
   o9XX9vUAAAAJ:YOwf2qJgpHMC:
-    citations: 4
-    title: Are We All Using Agents the Same Way? An Empirical Study of Core and Peripheral Developers Use of Coding Agents
+    citations: 5
+    title: "Are We All Using Agents the Same Way? An Empirical Study of Core and Peripheral Developers\u2019 Use of Coding Agents"
     year: '2026'
   o9XX9vUAAAAJ:_FxGoFyzp5QC:
     citations: 8
@@ -74,11 +74,11 @@ papers:
     title: The Journal of Systems and Software
     year: '2008'
   o9XX9vUAAAAJ:u-x6o8ySG0sC:
-    citations: 18
+    citations: 19
     title: Feature transformation for improved software bug detection models
     year: '2022'
   o9XX9vUAAAAJ:u5HHmVD_uO8C:
-    citations: 24
+    citations: 25
     title: Security concerns of ridesharing services in Bangladesh
     year: '2019'
   o9XX9vUAAAAJ:zYLM7Y9cAGgC:
