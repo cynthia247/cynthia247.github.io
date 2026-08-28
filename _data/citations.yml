@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-28'
 papers:
   o9XX9vUAAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: Identification and Optimization of Redundant Code Using Large Language Models
     year: '2025'
   o9XX9vUAAAAJ:Se3iqnhoufwC:
-    citations: 1
+    citations: 2
     title: How do Community Smells Influence Self-Admitted Technical Debt in Machine Learning Projects?
     year: '2025'
   o9XX9vUAAAAJ:Tyk-4Ss8FVUC:
@@ -38,7 +38,7 @@ papers:
     title: GEICSE 2025
     year: Unknown Year
   o9XX9vUAAAAJ:W7OEmFMy1HYC:
-    citations: 9
+    citations: 10
     title: Feature transformation for improved software bug detection and commit classification
     year: '2025'
   o9XX9vUAAAAJ:WF5omc3nYNoC:
@@ -66,7 +66,7 @@ papers:
     title: An efficient classification of tuberous sclerosis disease using nature inspired PSO and ACO based optimized neural network
     year: '2019'
   o9XX9vUAAAAJ:eQOLeE2rZwMC:
-    citations: 1
+    citations: 2
     title: 'Gender Disparities in Contributions, Leadership, and Collaboration: An Exploratory Study on Software Systems Research'
     year: '2025'
   o9XX9vUAAAAJ:roLk4NBRz8UC:
